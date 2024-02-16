@@ -16,7 +16,7 @@ Teach all things *Git*, give away all the stickers, ensure world peace.
 ### Supportocat
 
 Provide _world class support_ to customers on the GitHub platform
-
+_Skilled_ in Python, JavaScript, and Java
 ## Skills
 
 ### Education
